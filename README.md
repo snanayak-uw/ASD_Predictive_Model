@@ -13,12 +13,13 @@ logistic regression as described by Yahata et al. (2016).
 
 ===========================================================================
 
-To understand the contents of this folder, see: 
-File_Descriptions.docx
 
 To run the code that builds the predictive model, see: 
 PredictiveModel.m
 Note: Run MATLAB_prep.ipynb before running model code for the first time
+
+To understand the contents of this folder, see: 
+File_Descriptions.docx
 
 To use the determined coefficients to predict diagnosis on new data, see:
 FinalCoefficients.mat
